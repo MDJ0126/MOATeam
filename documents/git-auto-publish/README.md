@@ -1,4 +1,6 @@
-# status.txt 파일에 정확히 MOA_AUTO_GIT_OK 한 줄과 줄바꿈을 작성
+# Git Auto Publish
+
+검증 완료 후 결과를 GitHub에 자동으로 보관하는 예제입니다.
 
 > 검증을 마친 작업 결과입니다.
 
